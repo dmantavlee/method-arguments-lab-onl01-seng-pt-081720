@@ -1,3 +1,3 @@
-def introduction(name)
-  puts 
+def
+introduction(name)
 end
